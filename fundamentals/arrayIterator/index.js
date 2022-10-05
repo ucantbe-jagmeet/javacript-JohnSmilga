@@ -1,1 +1,2 @@
-//powerfull Array methods
+// powerfull Array methods
+// forEach, map, filter, find, reduce
