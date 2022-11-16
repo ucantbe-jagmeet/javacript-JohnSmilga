@@ -18,7 +18,7 @@ const person = people.find(function(person){
 })
 
 
-console.log(name.find( function(name){
+console.log(names.find( function(name){
     return name === 'bob'
 }));
 console.log(person);
