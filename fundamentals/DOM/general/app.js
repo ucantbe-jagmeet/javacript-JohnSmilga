@@ -14,6 +14,10 @@ const btn = document.getElementById('btn');
 const name = btn.nodeName;
 const css = btn.style;
 
-console.log(btn);
-console.log(name);
-console.log(css);
+// console.log(btn);
+// console.log(name);
+// console.log(css);
+
+
+//-----------------window Object------------------
+// window object = browser api
