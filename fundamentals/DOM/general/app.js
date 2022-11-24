@@ -20,4 +20,4 @@ const css = btn.style;
 
 
 //-----------------window Object------------------
-window object = browser api
+// window object = browser api
