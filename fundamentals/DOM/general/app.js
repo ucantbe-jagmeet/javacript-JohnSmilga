@@ -1,4 +1,4 @@
-document.getElementById('btn').style.backgroundColor = 'blue';
+document.getElementById('btn').style.backgroundColor = '#f9f';
 document.body.style.color = 'red';
 document.body.style.backgroundColor = 'yellow';
 // console.log(window);
@@ -20,4 +20,9 @@ const css = btn.style;
 
 
 //-----------------window Object------------------
-window object = browser api
+// window object = browser api
+// console.dir
+
+// alert('hello');
+// console.log(document);
+// console.log(d);   ---> javascript will not find that particular property or object , it will always find that object in window class
