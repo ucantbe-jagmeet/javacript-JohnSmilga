@@ -26,3 +26,8 @@ const css = btn.style;
 // alert('hello');
 // console.log(document);
 // console.log(d);   ---> javascript will not find that particular property or object , it will always find that object in window class
+
+// console.log(document); --> it returns the object in its string representation 
+
+// console.dir(document); --> it recognise the object as an object and outputs its properties
+
