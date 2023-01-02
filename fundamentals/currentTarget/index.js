@@ -27,5 +27,5 @@ function fun(event){
     event.preventDefault();
 }
 
-link.addEventListener('click', fun)
+link.addEventListener('click', fun);
 
